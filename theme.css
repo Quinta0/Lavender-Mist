@@ -46,7 +46,7 @@ svg * {
 
 .theme-light {
 	--text: #121421;
-	--background: #e7e9f3;
+	--background-primary: #e7e9f3;
 	--primary: #313a5e;
 	--secondary: #af8dc3;
 	--accent: #96539d;
